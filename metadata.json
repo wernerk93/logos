@@ -3,12 +3,12 @@
   "symbol": "Evie",
   "description": "Evie Pig",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/wernerk93/logos/refs/heads/main/eviepig.png",
+  "image": "https://raw.githubusercontent.com/wernerk93/logos/main/eviepig.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/wernerk93/logos/refs/heads/main/eviepig.png",
+        "uri": "https://raw.githubusercontent.com/wernerk93/logos/main/eviepig.png",
         "type": "image/png"
       }
     ],
