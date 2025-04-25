@@ -1,17 +1,6 @@
 {
-  "name": "Evie Pig",
-  "symbol": "Evie",
-  "description": "Evie Pig",
-  "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/wernerk93/logos/main/eviepig.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/wernerk93/logos/main/eviepig.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "name": "EVIE PIG",
+  "symbol": "EVIE",
+  "description": "This is for Evie Pig",
+  "image": "https://raw.githubusercontent.com/wernerk93/logos/main/eviepig.png"
 }
